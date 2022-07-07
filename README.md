@@ -1,11 +1,8 @@
 # HDC1080 sensor library 
 
-## Description
+# Description
 
 An Arduino library for esp8266,esp32 for the HDC1080 temperature/humidity sensor.
-
-# Dependencies
- * none
 
 ## Documentation 
 lib has currently just the basic feature of HDC1080
@@ -16,9 +13,10 @@ lib has currently just the basic feature of HDC1080
 
 heater related stuff and more error handling follows in future.
 
-
 Written by Sascha Ott (sascha.ott@gmx.de)
 
 MIT license, check license.txt for more information
 All text above must be included in any redistribution
 
+### Dependencies
+ * none
