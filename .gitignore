@@ -1,0 +1,9 @@
+/*.vcxitems
+/examples/Simple/.vs/
+/examples/Simple/__vm/
+/examples/Simple/Release/
+/examples/Simple/Debug/
+
+*.sln
+*.vcxproj
+*.filters

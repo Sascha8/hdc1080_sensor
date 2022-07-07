@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map For HDC1080-sensor-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+HDC1080_sensor	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+begin	KEYWORD2
+update KEYWORD2
+getManufactorID KEYWORD2
+getDeviceID KEYWORD2
+getSerialID KEYWORD2
+
